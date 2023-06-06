@@ -24,4 +24,5 @@ The core concepts are as follows:
 * Machine Translation: The task of automatically translating text from one language to another. Machine translation systems employ various techniques, including statistical methods, rule-based approaches, and neural networks, to achieve accurate translations.
 
 # Telecommunication
+# MLOPS
 
