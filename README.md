@@ -31,7 +31,8 @@ The 3GPP is composed of several partner organizations, including regional teleco
 The main objective of 3GPP is to create globally applicable standards for mobile communication systems, ensuring compatibility and interoperability across different networks and devices. These standards cover various aspects of mobile communications, including radio access, core network architecture, protocols, security, and services.
 
 3GPP has played a crucial role in the development of mobile technologies, such as GSM (Global System for Mobile Communications), UMTS (Universal Mobile Telecommunications System), LTE (Long-Term Evolution), and more recently, 5G (Fifth Generation) networks. It continues to work on advancing mobile communication standards and technologies to meet the evolving needs of the industry and consumers.
-# MLOPS
+
+# MLops
 MLOps (Machine Learning Operations) is a set of practices and techniques that aims to operationalize and manage machine learning models throughout their lifecycle. It combines principles from machine learning, software engineering, and DevOps to streamline the deployment, monitoring, and management of machine learning systems in production environments.
 
 MLOps addresses the challenges associated with deploying and maintaining machine learning models at scale, ensuring their reliability, scalability, and performance. It focuses on integrating the development, training, and deployment of models with the existing software development and operations processes.
