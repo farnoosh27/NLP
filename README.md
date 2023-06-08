@@ -1,4 +1,7 @@
 # NLP, MLOps and Telecommunication 
+### Purpose
+NLP involves extracting information from text in order to leverage it for downstream applications
+
 
 I am trying to specialize in Natural Language Processing for the purpose of my job, so here is the repository! 
 The core concepts are as follows:  
@@ -75,3 +78,5 @@ Bag-of-Words (BoW): It represents a document as a vector of word counts, ignorin
 N-gram Vectors: It represents contiguous sequences of n words as vectors, capturing the local word order and context.
 
 These vectorization techniques transform textual data into numerical representations that can be used as input for machine learning algorithms. Word embeddings, such as Word2Vec or GloVe, are a more advanced form of vectorization that capture semantic relationships between words in a dense vector space.
+
+
