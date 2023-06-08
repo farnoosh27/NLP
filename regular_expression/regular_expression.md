@@ -32,7 +32,9 @@ print(processed_text)
 """
 
 
-import re
+
+    """
+    import re
 
 def remove_stopwords(text, stopwords):
     pattern = r'\b(?:{})\b'.format('|'.join(stopwords))
@@ -47,8 +49,6 @@ processed_text = remove_stopwords(text, stopwords_list)
 
 print(processed_text)
 
-    """
-    return a + b
 
 Output:
 
