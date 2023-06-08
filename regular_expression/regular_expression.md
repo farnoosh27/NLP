@@ -48,9 +48,7 @@ In the example above, the remove_stopwords() function takes a text and a list of
 Note that the regular expression pattern \b(?:{})\b is used to match whole words. The flags=re.IGNORECASE argument is passed to re.sub() to perform a case-insensitive replacement.
 
 You can customize the stopwords_list with your desired set of stopwords or even load a predefined set of stopwords from external libraries or resources.
-
-
-### stemming vs lemmatizing 
+### lemmatizing 
 Lemmatizing is a natural language processing technique that aims to reduce words to their base or dictionary form, known as the lemma. The lemma represents the canonical or root form of a word, and lemmatization helps in normalizing words to their standard form.
 
 In contrast to stemming, which simply removes word suffixes to reduce words to a common stem, lemmatization takes into account the part of speech (POS) of the word and applies morphological analysis to produce the correct lemma.
@@ -69,5 +67,24 @@ Lemmatization is useful for various natural language processing tasks, such as t
 
 Python provides several libraries and tools that offer lemmatization functionality, including NLTK (Natural Language Toolkit), spaCy, and TextBlob. These libraries often support multiple languages and provide built-in lemmatization algorithms or access to pre-trained models for lemmatization.**
 
+
+
+
+### stemming vs lemmatizing 
+Lemmatization:
+
+Lemmatization aims to reduce words to their canonical or dictionary form, known as the lemma.
+It takes into account the part of speech (POS) of the word and applies morphological analysis to produce the correct lemma.
+Lemmatization typically produces more meaningful and linguistically valid results compared to stemming.
+It requires access to a dictionary or a lexical resource that provides information about word forms and their corresponding lemmas.
+Lemmatization is slower and computationally more expensive compared to stemming due to the need for POS tagging and dictionary lookups.
+Example: Lemmatizing the word "running" to "run" or "better" to "good".
+Stemming:
+
+Stemming aims to reduce words to their common base or stem by removing word suffixes.
+It applies simple heuristics or rule-based algorithms to remove affixes without considering the word's meaning or part of speech.
+Stemming can sometimes result in non-linguistic or invalid word forms.
+It doesn't require access to a dictionary or POS tagging, making it faster and computationally less expensive compared to lemmatization.
+Example: Stemming the word "running" to "run" or "better" to "bet".
 
 
