@@ -12,7 +12,7 @@ In Python, regular expressions don't have a predefined set of stopwords. Stopwor
 To remove stopwords from text using regular expressions in Python, you typically need to define your own list of stopwords and then utilize regular expressions to match and remove those stopwords from your text.
 
 Here's an example of how you can remove stopwords from a text using regular expressions in Python:
-'''python
+```python
 import re
 
 def remove_stopwords(text, stopwords):
@@ -27,8 +27,8 @@ text = "This is a sample text, and it contains some common words like the and is
 processed_text = remove_stopwords(text, stopwords_list)
 
 print(processed_text)
+```
 
-'''
 stopwords_list = ['the', 'is', 'and', 'a', 'an']  # Example list of stopwords
 
 text = "This is a sample text, and it contains some common words like the and is."
