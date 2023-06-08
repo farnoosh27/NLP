@@ -50,7 +50,24 @@ Note that the regular expression pattern \b(?:{})\b is used to match whole words
 You can customize the stopwords_list with your desired set of stopwords or even load a predefined set of stopwords from external libraries or resources.
 
 
+### stemming vs lemmatizing 
+Lemmatizing is a natural language processing technique that aims to reduce words to their base or dictionary form, known as the lemma. The lemma represents the canonical or root form of a word, and lemmatization helps in normalizing words to their standard form.
 
+In contrast to stemming, which simply removes word suffixes to reduce words to a common stem, lemmatization takes into account the part of speech (POS) of the word and applies morphological analysis to produce the correct lemma.
+
+The process of lemmatization involves mapping a word to its lemma using linguistic knowledge and algorithms. This requires access to a dictionary or a lexical resource that provides information about word forms and their corresponding lemmas.
+
+Here's an example to illustrate lemmatization:
+
+Input: "The cats are running and jumping around."
+
+Lemmatized output: "The cat be run and jump around."
+
+In the example above, the word "cats" is lemmatized to "cat" because it represents the singular form. Similarly, "are" is lemmatized to "be" to represent the base form of the verb. The words "running" and "jumping" are lemmatized to "run" and "jump," respectively, to capture their base forms.
+
+Lemmatization is useful for various natural language processing tasks, such as text classification, information retrieval, and sentiment analysis. It helps in reducing word variations and improving the accuracy and efficiency of text analysis by treating different forms of a word as a single entity.
+
+Python provides several libraries and tools that offer lemmatization functionality, including NLTK (Natural Language Toolkit), spaCy, and TextBlob. These libraries often support multiple languages and provide built-in lemmatization algorithms or access to pre-trained models for lemmatization.**
 
 
 
