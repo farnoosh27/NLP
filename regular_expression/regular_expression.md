@@ -42,6 +42,19 @@ Note that the regular expression pattern \b(?:{})\b is used to match whole words
 You can customize the stopwords_list with your desired set of stopwords or even load a predefined set of stopwords from external libraries or resources.
 
 
+def calculate_sum(a, b):
+    """
+    Calculates the sum of two numbers.
+
+    Args:
+        a (int): The first number.
+        b (int): The second number.
+
+    Returns:
+        int: The sum of the two numbers.
+    """
+    return a + b
+
 
 
 
