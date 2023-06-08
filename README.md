@@ -55,3 +55,23 @@ By implementing MLOps practices, organizations can effectively manage the entire
 
 ## MLflow
 is an open-source platform designed to help manage the machine learning (ML) lifecycle. It provides tools and components to streamline the development, experimentation, deployment, and monitoring of machine learning models. MLflow was developed by Databricks, a company founded by the creators of Apache Spark.
+
+
+
+Word Embeddings: Word embeddings are dense vector representations of words in a continuous vector space. They aim to capture semantic and syntactic relationships between words based on their usage in a given corpus. Each word is represented by a high-dimensional vector, and similar words tend to have vectors that are closer together in the vector space. Word embeddings are typically learned from large text corpora using unsupervised learning techniques like Word2Vec, GloVe, or fastText.
+
+Word embeddings have the advantage of capturing the meaning and context of words, allowing algorithms to understand the semantic relationships between words. They are widely used in various NLP tasks such as word similarity, named entity recognition, sentiment analysis, and machine translation.
+
+Vectorization: Vectorization, on the other hand, is a more general term that refers to the process of converting any kind of data (including text) into numerical vectors that machine learning algorithms can understand. In the context of NLP, vectorization often refers to representing textual data as numerical feature vectors.
+
+There are different techniques for vectorizing text, and word embeddings are one of them. Other vectorization techniques include:
+
+One-Hot Encoding: Each word is represented as a binary vector where only one element is 1 (indicating the presence of that word) and all other elements are 0.
+
+TF-IDF (Term Frequency-Inverse Document Frequency): It represents the importance of a word in a document by considering both the frequency of the word in the document (term frequency) and the rarity of the word in the entire corpus (inverse document frequency).
+
+Bag-of-Words (BoW): It represents a document as a vector of word counts, ignoring the word order but considering the frequency of each word in the document.
+
+N-gram Vectors: It represents contiguous sequences of n words as vectors, capturing the local word order and context.
+
+These vectorization techniques transform textual data into numerical representations that can be used as input for machine learning algorithms. Word embeddings, such as Word2Vec or GloVe, are a more advanced form of vectorization that capture semantic relationships between words in a dense vector space.
