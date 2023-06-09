@@ -26,3 +26,18 @@ The 3GPP is composed of several partner organizations, including regional teleco
 The main objective of 3GPP is to create globally applicable standards for mobile communication systems, ensuring compatibility and interoperability across different networks and devices. These standards cover various aspects of mobile communications, including radio access, core network architecture, protocols, security, and services.
 
 3GPP has played a crucial role in the development of mobile technologies, such as GSM (Global System for Mobile Communications), UMTS (Universal Mobile Telecommunications System), LTE (Long-Term Evolution), and more recently, 5G (Fifth Generation) networks. It continues to work on advancing mobile communication standards and technologies to meet the evolving needs of the industry and consumers.
+
+## What is NAS?
+In telecommunication, the Non-Access Stratum (NAS) refers to a functional layer in the architecture of mobile networks, specifically in the context of the 3rd Generation Partnership Project (3GPP) standards. The NAS resides above the radio access technology (RAT) layer and is responsible for handling the signaling and control procedures related to the mobility and session management of mobile devices.
+
+The NAS is primarily associated with the core network (CN) of a mobile network, which includes elements such as the Mobile Switching Center (MSC), Serving GPRS Support Node (SGSN), and the Evolved Packet Core (EPC) in the case of Long-Term Evolution (LTE) and 5G networks. The NAS layer is responsible for handling the following functions:
+
+Mobility Management: NAS manages the mobility of mobile devices within the network. This includes procedures such as tracking area updates, location updating, and authentication of devices when they move between different network areas or access points.
+
+Session Management: NAS handles the establishment, modification, and termination of sessions for mobile devices. This includes procedures for initiating data sessions, assigning temporary identifiers (e.g., temporary mobile subscriber identity or TMSI), and managing context information related to the ongoing sessions.
+
+Security: NAS is responsible for ensuring the security and integrity of signaling messages and user data. It handles procedures for authentication and key agreement between the mobile device and the network, as well as encryption and integrity protection of data during transmission.
+
+Service Request Handling: NAS manages service requests from mobile devices and initiates the appropriate procedures to fulfill those requests. This includes handling requests for mobile-originated calls, data services, and supplementary services.
+
+Overall, the NAS layer plays a crucial role in managing the mobility, session establishment, and security aspects of mobile communication within the core network of a mobile network operator. It ensures that mobile devices can seamlessly move between different network areas, establish and maintain sessions, and securely communicate with the network infrastructure.
