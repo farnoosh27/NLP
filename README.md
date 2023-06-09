@@ -26,14 +26,7 @@ The core concepts are as follows:
 
 * Machine Translation: The task of automatically translating text from one language to another. Machine translation systems employ various techniques, including statistical methods, rule-based approaches, and neural networks, to achieve accurate translations.
 
-# Telecommunication
-* 3GPP (Third Generation Partnership Project) is a global collaboration of telecommunications standards organizations that develops protocols and specifications for mobile communication networks. It was established in 1998 and is responsible for defining the standards for the technology used in 3G (Third Generation) and beyond mobile networks.
 
-The 3GPP is composed of several partner organizations, including regional telecommunications standards bodies such as the European Telecommunications Standards Institute (ETSI), the Association of Radio Industries and Businesses (ARIB) in Japan, the Telecommunication Technology Committee (TTC) in Japan, and the China Communications Standards Association (CCSA) in China.
-
-The main objective of 3GPP is to create globally applicable standards for mobile communication systems, ensuring compatibility and interoperability across different networks and devices. These standards cover various aspects of mobile communications, including radio access, core network architecture, protocols, security, and services.
-
-3GPP has played a crucial role in the development of mobile technologies, such as GSM (Global System for Mobile Communications), UMTS (Universal Mobile Telecommunications System), LTE (Long-Term Evolution), and more recently, 5G (Fifth Generation) networks. It continues to work on advancing mobile communication standards and technologies to meet the evolving needs of the industry and consumers.
 
 # MLops
 MLOps (Machine Learning Operations) is a set of practices and techniques that aims to operationalize and manage machine learning models throughout their lifecycle. It combines principles from machine learning, software engineering, and DevOps to streamline the deployment, monitoring, and management of machine learning systems in production environments.
