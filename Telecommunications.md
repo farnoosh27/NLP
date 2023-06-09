@@ -41,3 +41,24 @@ Security: NAS is responsible for ensuring the security and integrity of signalin
 Service Request Handling: NAS manages service requests from mobile devices and initiates the appropriate procedures to fulfill those requests. This includes handling requests for mobile-originated calls, data services, and supplementary services.
 
 Overall, the NAS layer plays a crucial role in managing the mobility, session establishment, and security aspects of mobile communication within the core network of a mobile network operator. It ensures that mobile devices can seamlessly move between different network areas, establish and maintain sessions, and securely communicate with the network infrastructure.
+
+## What is PCAP?
+In telecommunications, PCAP stands for Packet Capture. PCAP is a file format used to store network packet data captured from a network interface or device. It is commonly associated with packet sniffing and network analysis tools.
+
+PCAP files contain the raw packet-level data, including the network headers and payload, captured from the network. They can be created by using specialized software or tools that allow capturing network traffic, such as Wireshark, tcpdump, or WinPcap.
+
+PCAP files are widely used for various purposes in telecommunication and network analysis, including:
+
+* Network Troubleshooting: PCAP files can be invaluable for diagnosing network issues and troubleshooting connectivity problems. By capturing network traffic and saving it to a PCAP file, network administrators can later analyze the captured packets to identify anomalies, pinpoint the source of network errors, or understand the behavior of network protocols.
+
+* Security Analysis: PCAP files play a crucial role in network security analysis and forensics. They allow security professionals to capture and store network traffic for later analysis to detect security threats, monitor network activities, investigate security incidents, or identify malicious behavior.
+
+* Protocol Analysis: Network protocols can be complex, and analyzing their behavior requires inspecting individual packets. PCAP files provide a way to capture packets and analyze them in detail, helping network engineers and developers understand protocol interactions, identify protocol errors, or validate protocol implementations.
+
+* Network Monitoring: PCAP files can be used to capture and record network traffic over an extended period. This enables network monitoring and analysis of network trends, bandwidth usage, application behavior, and performance metrics.
+
+PCAP files are typically created by installing packet capture software or using command-line tools that interface with network interfaces in promiscuous mode, allowing them to capture all network traffic passing through the interface. The captured packets are then saved to a PCAP file for subsequent analysis.
+
+When analyzing PCAP files, specialized tools like Wireshark or tcpdump are commonly used. These tools provide a graphical or command-line interface to open and analyze the captured packets, applying filters, dissecting protocols, and extracting information from the captured network traffic.
+
+Overall, PCAP files are an essential component of network analysis and troubleshooting in telecommunications, allowing for the detailed inspection and analysis of captured network packets.
