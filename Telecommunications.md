@@ -1,3 +1,5 @@
+## What is Route error?
+
 In telecommunication, a "route error" typically refers to a network error or failure that occurs when attempting to establish a communication path or route between two devices or network nodes. It indicates that the desired route for transmitting data packets from the source to the destination is not available or cannot be determined.
 
 When a route error occurs, it usually means that the network infrastructure or the devices involved in the communication process are unable to find a valid path for delivering the data. This can happen due to various reasons, including:
