@@ -54,7 +54,7 @@ is an open-source platform designed to help manage the machine learning (ML) lif
 
 
 
-## Word Embeddings:
+## Word Embeddings
 Word embeddings are dense vector representations of words in a continuous vector space. They aim to capture semantic and syntactic relationships between words based on their usage in a given corpus. Each word is represented by a high-dimensional vector, and similar words tend to have vectors that are closer together in the vector space. Word embeddings are typically learned from large text corpora using unsupervised learning techniques like Word2Vec, GloVe, or fastText.
 
 Word embeddings have the advantage of capturing the meaning and context of words, allowing algorithms to understand the semantic relationships between words. They are widely used in various NLP tasks such as word similarity, named entity recognition, sentiment analysis, and machine translation.
