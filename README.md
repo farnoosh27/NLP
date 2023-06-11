@@ -28,7 +28,7 @@ The core concepts are as follows:
 
 
 
-# MLops
+# MLOps
 MLOps (Machine Learning Operations) is a set of practices and techniques that aims to operationalize and manage machine learning models throughout their lifecycle. It combines principles from machine learning, software engineering, and DevOps to streamline the deployment, monitoring, and management of machine learning systems in production environments.
 
 MLOps addresses the challenges associated with deploying and maintaining machine learning models at scale, ensuring their reliability, scalability, and performance. It focuses on integrating the development, training, and deployment of models with the existing software development and operations processes.
