@@ -26,6 +26,7 @@ The 3GPP is composed of several partner organizations, including regional teleco
 The main objective of 3GPP is to create globally applicable standards for mobile communication systems, ensuring compatibility and interoperability across different networks and devices. These standards cover various aspects of mobile communications, including radio access, core network architecture, protocols, security, and services.
 
 3GPP has played a crucial role in the development of mobile technologies, such as GSM (Global System for Mobile Communications), UMTS (Universal Mobile Telecommunications System), LTE (Long-Term Evolution), and more recently, 5G (Fifth Generation) networks. It continues to work on advancing mobile communication standards and technologies to meet the evolving needs of the industry and consumers.
+## what is OEM?
 
 ## What is NAS?
 In telecommunication, the Non-Access Stratum (NAS) refers to a **functional layer in the architecture** of mobile networks, specifically in the context of the 3rd Generation Partnership Project (3GPP) standards. The NAS resides above the radio access technology (RAT) layer and is responsible for handling the signaling and control procedures related to the mobility and session management of mobile devices.
