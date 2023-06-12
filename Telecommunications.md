@@ -16,7 +16,7 @@ When a route error occurs, it usually means that the network infrastructure or t
 
 * When a route error occurs, the network devices involved typically generate error messages or notifications to indicate the problem. Network administrators or technicians then need to diagnose and troubleshoot the issue to identify the underlying cause and restore proper network connectivity.
 
-It's worth noting that the term "route error" can be used in different contexts and may have variations in its meaning depending on the specific telecommunication technology or protocol being discussed. The above explanation provides a general understanding of the concept in relation to networking and data routing.
+
 
 ## What is Third Generation Partnership Project?
 3GPP (Third Generation Partnership Project) is a **global collaboration of telecommunications standards organizations** that develops protocols and specifications for mobile communication networks. It was established in 1998 and is responsible for defining the standards for the technology used in 3G (Third Generation) and beyond mobile networks.
