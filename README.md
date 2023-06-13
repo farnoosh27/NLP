@@ -71,6 +71,20 @@ Bag-of-Words (BoW): It represents a document as a vector of word counts, ignorin
 
 N-gram Vectors: It represents contiguous sequences of n words as vectors, capturing the local word order and context.
 
+### unigram, bigram, and N-gram
+In natural language processing (NLP), unigram, bigram, and n-gram are terms used to refer to different types of linguistic units or sequences of words.
+
+Unigram:
+A unigram refers to a single word occurring in a text or a corpus. It represents the simplest form of analysis, where each word is treated as a separate and independent entity. For example, the sentence "I love cats and dogs" contains the unigrams "I," "love," "cats," "and," and "dogs."
+
+Bigram:
+A bigram is a sequence of two consecutive words in a text or a corpus. It involves analyzing the text by considering pairs of adjacent words. For example, in the sentence "I love cats and dogs," the bigrams would be "I love," "love cats," "cats and," and "and dogs."
+
+N-gram:
+N-gram is a more general term that refers to a sequence of N consecutive words in a text or a corpus. It can be a unigram, bigram, trigram (three consecutive words), or any higher-order combination of words. For example, in the sentence "I love cats and dogs," the trigrams would be "I love cats," "love cats and," and "cats and dogs." Similarly, a 4-gram would consist of sequences of four consecutive words.
+
+N-grams are often used in NLP for various purposes, such as language modeling, part-of-speech tagging, text classification, and machine translation. They help capture the local context and dependencies between words in a text, which can be useful in understanding and generating natural language.
+
 These vectorization techniques transform textual data into numerical representations that can be used as input for machine learning algorithms. Word embeddings, such as Word2Vec or GloVe, are a more advanced form of vectorization that capture semantic relationships between words in a dense vector space.
 Vectorization and cosine similarity are concepts commonly used in natural language processing and information retrieval tasks. Let's explore each one in more detail:
 
