@@ -14,25 +14,25 @@ The import requests statement is used in Python to import the requests library, 
 
 ## example
     ``` import requests
-from bs4 import BeautifulSoup
-import re
+    from bs4 import BeautifulSoup
+    import re
 
-url = "https://www.etsi.org/deliver/etsi_ts/136400_136499/136413/"
+    url = "yourURL.com"
 
-response = requests.get(url)
-html_content = response.text
+    response = requests.get(url)
+    html_content = response.text
 
-soup = BeautifulSoup(html_content, "html.parser")
-file_names = []
-pattern = r"\d{2}\.\d{2}\.\d{2}_\d{2}"
+    soup = BeautifulSoup(html_content, "html.parser")
+    file_names = []
+    pattern = r"\d{2}\.\d{2}\.\d{2}_\d{2}"
 
-for link in soup.find_all("a"):
-    match = re.search(pattern, link.get("href"))
-    if match:
-        file_names.append(match.group())
+    for link in soup.find_all("a"):
+        match = re.search(pattern, link.get("href"))
+        if match:
+            file_names.append(match.group())
 
-num_items = len(file_names)
+    num_items = len(file_names)
 
-print("Number of items:", num_items)
-for file_name in file_names:
-    print(file_name) ```
+    print("Number of items:", num_items)
+    for file_name in file_names:
+        print(file_name) ```
