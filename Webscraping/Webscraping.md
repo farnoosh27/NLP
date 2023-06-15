@@ -13,7 +13,7 @@ With Beautiful Soup, you can parse HTML or XML content and extract the desired i
 The import requests statement is used in Python to import the requests library, which is a popular HTTP library for making requests to web servers and handling their responses. The requests library simplifies the process of sending HTTP requests and provides an easy-to-use interface for interacting with web services, APIs, and websites.
 
 ## example
-'''
+    ```
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -37,4 +37,4 @@ num_items = len(file_names)
 print("Number of items:", num_items)
 for file_name in file_names:
     print(file_name)
-'''
+```
