@@ -12,4 +12,4 @@ plt.axis("off")
 
 # Log the image as an artifact in MLflow
 with mlflow.start_run():
-    mlflow.log_artifact(image_path, artifact_path="images")```
+    mlflow.log_artifact(image_path, artifact_path="images")
