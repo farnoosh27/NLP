@@ -22,7 +22,7 @@ The core concepts are as follows:
 
 * Word Embeddings: Representing words or phrases as dense vectors in a continuous vector space. Word embeddings capture semantic relationships between words, allowing algorithms to understand word similarities and analogies.
 
-* Language Models: Statistical models that predict the probability of a word or sequence of words given the context. Language models have become increasingly powerful with the development of deep learning techniques and have enabled significant advancements in tasks like machine translation, text generation, and question answering.
+* Language Models: Statistical models that predict the probability of a word or sequence of words given the context. Language models have become increasingly powerful with the development of deep learning techniques and have enabled significant advancements in tasks like machine translation, text generation, and question-answering.
 
 * Machine Translation: The task of automatically translating text from one language to another. Machine translation systems employ various techniques, including statistical methods, rule-based approaches, and neural networks, to achieve accurate translations.
 
