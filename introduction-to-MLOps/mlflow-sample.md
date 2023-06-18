@@ -12,6 +12,10 @@ One of the key components of MLflow is the artifact store. The artifact store is
 Databricks provides integration with MLflow, allowing you to leverage the power of MLflow for managing and tracking machine learning experiments within the Databricks environment. When you use MLflow with Databricks, the artifacts generated during training or evaluation of machine learning models are automatically stored in the Databricks File System (DBFS) as part of the MLflow experiment run.
 
 This integration enables seamless tracking and management of artifacts alongside the MLflow experiment data. You can easily access, version, and compare artifacts associated with different runs of an experiment using the MLflow UI or APIs. This combination of MLflow and Databricks helps to streamline the machine learning workflow, enhance collaboration, and ensure reproducibility by capturing and managing all the necessary artifacts and experiment metadata in one place.
+
+## Databricks Workspace
+
+It is a web-based interface that allows you to manage and organize your Databricks resources, including notebooks, libraries, jobs, clusters, and data.
 ## MLflow
 
 ```import matplotlib.pyplot as plt
