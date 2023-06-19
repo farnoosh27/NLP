@@ -1,3 +1,5 @@
+## Word Clouds vs LDA
+
 Word clouds and Latent Dirichlet Allocation (LDA) are both techniques used in text analysis and can provide insights into the underlying topics or themes within a collection of documents. However, they differ in their approach and the type of information they convey.
 
 1. Representation of Topics:
