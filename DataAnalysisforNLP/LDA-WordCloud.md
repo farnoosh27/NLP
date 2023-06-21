@@ -3,6 +3,7 @@ A word cloud is a visual representation of text data where words are displayed i
 
 Wordle, TagCrowd, WordClouds.com, WordArt.com, Tableau, R, and Python are popular software options for creating word clouds with varying levels of customization and programming capabilities.
 
+## Latent Dirichlet Allocation (LDA)
 ## Word Clouds vs LDA
 
 Word clouds and Latent Dirichlet Allocation (LDA) are both techniques used in text analysis and can provide insights into the underlying topics or themes within a collection of documents. However, they differ in their approach and the type of information they convey.
