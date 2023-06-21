@@ -6,6 +6,12 @@ Wordle, TagCrowd, WordClouds.com, WordArt.com, Tableau, R, and Python are popula
 ## Latent Dirichlet Allocation (LDA)
 LDA stands for Latent Dirichlet Allocation. It is a generative probabilistic model used in machine learning and natural language processing (NLP) for topic modeling. LDA assumes that documents are composed of multiple topics, and each topic is represented by a distribution of words. It aims to uncover the underlying topics within a collection of documents and assign probabilities to each topic's presence in a given document. LDA is widely used for tasks such as document clustering, information retrieval, and content recommendation systems.
 ### What meaning does each part carry
+Latent: The term "latent" refers to hidden or unobserved variables. In the case of LDA, the latent variables are the underlying topics in the documents, which are not directly observed but inferred from the observed words.
+
+Dirichlet: The term "Dirichlet" refers to the Dirichlet distribution, which is a probability distribution often used in Bayesian statistics. In LDA, the Dirichlet distribution is used to model the distribution of topics in documents and the distribution of words in topics.
+
+Allocation: The term "allocation" refers to the process of assigning topics to documents and words to topics based on their statistical properties. LDA allocates topics to documents probabilistically and assigns words to topics based on the estimated topic distributions.
+
 
 ## Word Clouds vs LDA
 
