@@ -1,1 +1,2 @@
 There are several libraries to work with PDFs and parsing them:
+* PyPDF2 is a Python library designed to handle PDF files. It provides a set of tools and functions that enable reading, modifying, and extracting data from PDF documents. With PyPDF2, you can perform tasks such as combining multiple PDFs, splitting a PDF into sections, extracting text and images, editing content, and encrypting or decrypting PDF files. By utilizing PyPDF2 in your Python programs, you can interact with PDF files programmatically and access their contents and structure.
