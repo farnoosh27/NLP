@@ -12,12 +12,36 @@ A Python library that allows you to extract text, tables, and images from PDF fi
 A robust library that enables the extraction of text and metadata from PDF files. It offers tools for analyzing PDF document structure and extracting text in different formats. With support for both layout-based and text-based extraction, PDFMiner is well-suited for a variety of PDF parsing requirements.
 
 
-```%pip install pdfminer
+```
+%pip install pdfminer
 import io
 from pdfminer.converter import TextConverter
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 import requests
+```
+and then: 
+```
+
+def read_pdf_with_pdfminer(pdf_url):
+    resource_manager = PDFResourceManager()
+    output_string = io.StringIO()
+    laparams = None
+
+    response = requests.get(pdf_url)
+    file = io.BytesIO(response.content)
+
+    interpreter = PDFPageInterpreter(resource_manager, TextConverter(resource_manager, output_string, laparams=laparams))
+    for page in PDFPage.get_pages(file):
+        interpreter.process_page(page)
+
+    return output_string.getvalue()
+```
+and next using the function:
+```
+pdf_url = 'https://www.africau.edu/images/default/sample.pdf'
+first_page_text_pdfminer = read_pdf_with_pdfminer(pdf_url)
+print(first_page_text_pdfminer)
 ```
 
 * Camelot
