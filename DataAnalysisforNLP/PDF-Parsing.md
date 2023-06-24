@@ -16,3 +16,7 @@ A robust library that enables the extraction of text and metadata from PDF files
 * Camelot
   
  Camelot is a Python library built on top of PDFMiner that specializes in table extraction from PDFs. It provides high-level methods to detect and extract tables from PDF documents, even in the presence of complex layouts or merged cells. Camelot supports both text-based and image-based table extraction.
+
+ * Tabula-py
+   
+   A specialized library that focuses on extracting tabular data from PDF files. It has the ability to automatically detect and extract tables, which can be conveniently saved as CSV or DataFrame objects. Tabula-py utilizes PDFPlumber internally and provides a more abstracted interface for streamlined table extraction tasks.
