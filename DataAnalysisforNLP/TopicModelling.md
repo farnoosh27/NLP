@@ -1,3 +1,4 @@
+## Different Topic Modelling Techniques
 
 Latent Dirichlet Allocation (LDA): LDA is a popular probabilistic model that assumes documents are a mixture of topics, and topics are distributions over words. It is widely used for discovering topics in a text corpus and assigning topic probabilities to each document.
 
