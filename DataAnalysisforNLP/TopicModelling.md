@@ -1,3 +1,5 @@
+## Why Topic Modelling
+Topic modeling is a useful technique in natural language processing and machine learning that allows us to discover hidden themes within a collection of documents. By automatically identifying patterns and relationships in unstructured text data, topic modeling helps us organize documents, improve information retrieval, analyze content, generate summaries, explore data visually, and provide personalized content recommendations. It is valuable in various domains for understanding and extracting insights from large volumes of text data.
 ## Different Topic Modelling Techniques
 
 Latent Dirichlet Allocation (LDA): LDA is a popular probabilistic model that assumes documents are a mixture of topics, and topics are distributions over words. It is widely used for discovering topics in a text corpus and assigning topic probabilities to each document.
