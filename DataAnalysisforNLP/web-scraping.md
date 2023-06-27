@@ -1,5 +1,5 @@
 
-Here I would like to write the things I find very helpful for extracting data based on webpages: 
+Here I would like to write the things I find very helpful for extracting data based on web pages: 
 Web scraping is often necessary for several reasons:
 
 
