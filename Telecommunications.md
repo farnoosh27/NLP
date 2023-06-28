@@ -29,7 +29,7 @@ The main objective of 3GPP is to create globally applicable standards for mobile
 ## what is OEM?
 
 ## What is NAS?
-In telecommunication, the Non-Access Stratum (NAS) refers to a **functional layer in the architecture** of mobile networks, specifically in the context of the 3rd Generation Partnership Project (3GPP) standards. The NAS resides above the radio access technology (RAT) layer and is responsible for handling the signaling and control procedures related to the mobility and session management of mobile devices.
+In telecommunication, the Non-Access Stratum (NAS) refers to a **functional layer in the architecture** of mobile networks, specifically in the context of the 3rd Generation Partnership Project (3GPP) standards. The NAS resides above the radio access technology (RAT) layer and is responsible for handling the signalling and control procedures related to the mobility and session management of mobile devices.
 
 The NAS is primarily associated with the core network (CN) of a mobile network, which includes elements such as the Mobile Switching Center (MSC), Serving GPRS Support Node (SGSN), and the Evolved Packet Core (EPC) in the case of Long-Term Evolution (LTE) and 5G networks. The NAS layer is responsible for handling the following functions:
 
