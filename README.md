@@ -2,7 +2,7 @@
 ## Purpose
 NLP involves extracting information from text in order to leverage it for downstream applications:
 
-
+#
 I am trying to specialize in Natural Language Processing for the purpose of my job, so here is the repository! 
 The core concepts are as follows:  
 
