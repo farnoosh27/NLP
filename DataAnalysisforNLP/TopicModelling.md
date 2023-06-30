@@ -11,3 +11,7 @@ Probabilistic Latent Semantic Analysis (pLSA): pLSA is a generative probabilisti
 Word Embedding-based Approaches: Word embedding models like Word2Vec, GloVe, or BERT can be used for topic modeling. These models represent words as dense vectors in a continuous space, capturing semantic relationships. Clustering words based on their vector representations helps identify groups representing different topics.
 
 Topic Coherence Measures: Topic coherence measures are used to evaluate and refine topic modeling results. They assess the semantic coherence of words within each topic, providing a quantitative metric for topic quality. Coherence measures help in determining the optimal number of topics or comparing different topic modeling techniques.
+
+## Top2Vec
+
+Top2Vec is an algorithm used for topic modeling and document clustering. It extends the Word2Vec algorithm to operate at the document level. It discovers topics in a collection of documents by creating document embeddings and applying hierarchical clustering. Each document is then assigned to one or more topics based on its similarity to cluster centroids. Top2Vec focuses on the most representative documents within each topic, allowing for a better understanding of large document collections. It has applications in various areas where extracting underlying themes from documents is important.
