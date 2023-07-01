@@ -1,6 +1,6 @@
 ## What is an artifact? 
 
-In Databricks, an artifact refers to a file or a collection of files associated with a project or data analysis workflow. These artifacts can include code, notebooks, libraries, data files, or other relevant resources stored in the Databricks File System (DBFS). Artifacts help organize and share resources, ensuring consistency and reproducibility. Databricks provides tools like the Workspace and CLI to manage artifacts effectively, streamlining data workflows and promoting collaboration.
+In Databricks, an artifact refers to a file or a collection of files associated with a project or data analysis workflow. These artifacts can include code, notebooks, libraries, data files, or other relevant resources stored in the DBFS. Artifacts help organize and share resources, ensuring consistency and reproducibility. Databricks provides tools like the Workspace and CLI to manage artifacts effectively, streamlining data workflows and promoting collaboration.
 
 ## Mlflow and Artifact
 MLflow and artifacts are closely related in the context of Databricks.
