@@ -19,6 +19,7 @@ When a route error occurs, it usually means that the network infrastructure or t
 
 
 ## What is Third Generation Partnership Project?
+
 3GPP (Third Generation Partnership Project) is a **global collaboration of telecommunications standards organizations** that develops protocols and specifications for mobile communication networks. It was established in 1998 and is responsible for defining the standards for the technology used in 3G (Third Generation) and beyond mobile networks.
 
 The 3GPP is composed of several partner organizations, including regional telecommunications standards bodies such as the European Telecommunications Standards Institute (ETSI), the Association of Radio Industries and Businesses (ARIB) in Japan, the Telecommunication Technology Committee (TTC) in Japan, and the China Communications Standards Association (CCSA) in China.
