@@ -1,4 +1,4 @@
-## What is Route error?
+## What is Root error?
 
 In telecommunication, a "route error" typically refers to a network error or failure that occurs when attempting to establish a communication path or route between two devices or network nodes. It indicates that the desired route for transmitting data packets from the source to the destination is not available or cannot be determined.
 
