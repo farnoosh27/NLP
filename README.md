@@ -29,8 +29,6 @@ The core concepts are as follows:
 
 
 
-
-
 ## Word Embeddings
 Word embeddings are dense vector representations of words in a continuous vector space. They aim to capture semantic and syntactic relationships between words based on their usage in a given corpus. Each word is represented by a high-dimensional vector, and similar words tend to have vectors that are closer together in the vector space. Word embeddings are typically learned from large text corpora using unsupervised learning techniques like Word2Vec, GloVe, or fastText.
 
