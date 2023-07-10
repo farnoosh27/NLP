@@ -46,7 +46,7 @@ Bag-of-Words (BoW): It represents a document as a vector of word counts, ignorin
 
 N-gram Vectors: It represents contiguous sequences of n words as vectors, capturing the local word order and context.
 
-### unigram, bigram, and N-gram
+### Unigram, bigram, and N-gram
 In natural language processing (NLP), unigram, bigram, and n-gram are terms used to refer to different types of linguistic units or sequences of words.
 
 Unigram:
