@@ -30,6 +30,7 @@ The main objective of 3GPP is to create globally applicable standards for mobile
 
 
 ## What is NAS?
+
 In telecommunication, the Non-Access Stratum (NAS) refers to a **functional layer in the architecture** of mobile networks, specifically in the context of the 3rd Generation Partnership Project (3GPP) standards. The NAS resides above the radio access technology (RAT) layer and is responsible for handling the signalling and control procedures related to the mobility and session management of mobile devices.
 
 The NAS is primarily associated with the core network (CN) of a mobile network, which includes elements such as the Mobile Switching Center (MSC), Serving GPRS Support Node (SGSN), and the Evolved Packet Core (EPC) in the case of Long-Term Evolution (LTE) and 5G networks. The NAS layer is responsible for handling the following functions:
@@ -44,7 +45,7 @@ Service Request Handling: NAS manages service requests from mobile devices and i
 
 Overall, the NAS layer plays a crucial role in managing the mobility, session establishment, and security aspects of mobile communication within the core network of a mobile network operator. It ensures that mobile devices can seamlessly move between different network areas, establish and maintain sessions, and securely communicate with the network infrastructure.
 
-## What is PCAP?
+## What is PCap?
 In telecommunications, PCAP stands for Packet Capture. PCAP is a file format used to store network packet data captured from a network interface or device. It is commonly associated with packet sniffing and network analysis tools.
 
 PCAP files contain the raw packet-level data, including the network headers and payload, captured from the network. They can be created by using specialized software or tools that allow capturing network traffic, such as Wireshark, tcpdump, or WinPcap.
