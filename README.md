@@ -1,6 +1,7 @@
 ## NLP, MLOps and Telecommunication 
 
 ### Purpose
+
 NLP involves extracting information from text in order to leverage it for downstream applications:
 
 
