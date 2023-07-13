@@ -8,5 +8,7 @@ Wireshark provides a user-friendly interface that displays captured packets in a
 Keep in mind that using Wireshark may require technical knowledge and understanding of networking protocols. Additionally, it's important to respect privacy and legal considerations when capturing and analyzing network traffic, ensuring that you have appropriate authorization to monitor the network.
 
 
-Tshark: Tshark is a command-line tool that comes bundled with Wireshark. It offers similar functionality as Wireshark but without the graphical user interface (GUI). Tshark is useful for automated or script-based packet analysis.
+## Tshark
+
+Tshark is a command-line tool that comes bundled with Wireshark. It offers similar functionality as Wireshark but without the graphical user interface (GUI). Tshark is useful for automated or script-based packet analysis.
 
