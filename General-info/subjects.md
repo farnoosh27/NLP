@@ -1,1 +1,3 @@
+## What is rubber ducking?
 
+Rubber ducking is a technique utilized in software development, where developers explain their code or problem to an inanimate object, typically a rubber duck. The purpose is to gain a deeper understanding of the issue by verbalizing and articulating their thoughts. Even though the rubber duck cannot provide any assistance, the act of explaining the problem often helps developers identify the solution themselves. Rubber ducking is a popular practice among developers for troubleshooting and debugging, as it helps overcome mental blocks, enhance critical thinking, and improve problem-solving abilities.
