@@ -6,6 +6,8 @@ LangChain is a framework that simplifies the creation of applications utilizing 
 
 You can find out about it at this link: https://python.langchain.com/docs/get_started/introduction
 https://www.youtube.com/@DataIndependent
+A udemy course on LangChain can be: LangChain- Develop LLM powered applications with LangChain
+
 ## History
 In October 2022, LangChain was introduced as an open source initiative by Harrison Chase during his tenure at the machine learning startup Robust Intelligence. The project gained rapid recognition, attracting contributions from numerous GitHub contributors and generating lively discussions on Twitter. It also fostered an active community on its Discord server, along with the creation of various YouTube tutorials and meetups held in San Francisco and London. In April 2023, LangChain's promising trajectory led to a significant funding achievement. The startup secured over $20 million in funding, valuing the company at a minimum of $200 million. This funding was provided by venture firm Sequoia Capital, following a previous seed investment of $10 million from Benchmark, which was announced just a week earlier.
 
