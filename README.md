@@ -1,4 +1,4 @@
-## NLP, MLOps and Telecommunication 
+## NLP and MLOps
 
 ### Purpose
 
