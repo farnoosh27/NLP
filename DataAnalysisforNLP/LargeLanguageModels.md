@@ -30,3 +30,8 @@ Event handlers - Record and stream intermediate steps of any sequence
 An Agent can be understood as an envelope that encloses a model, functioning to receive user inputs and generate responses. These responses suggest a particular "action" to be executed, along with the relevant "action input" associated with it.
 
 ## What is prompt?
+
+Input/Context 
+Questions 
+Examples
+Output Formats
