@@ -37,4 +37,9 @@ Examples
 Output Formats
 
 None of these elements have to present. But in order to have a good prompt, at least one instruction and one question should be present. 
+* Instruction:
 ```Translate from English to German: How is the weather?```
+* Question:
+* ```What is the meaning of life?```
+  * Example:
+  *   Few-shot learning
