@@ -35,3 +35,6 @@ Input/Context
 Questions 
 Examples
 Output Formats
+
+None of these elements have to present. But in order to have a good prompt, at least one instruction and one question should be present. 
+```Translate from English to German: How is the weather?```
