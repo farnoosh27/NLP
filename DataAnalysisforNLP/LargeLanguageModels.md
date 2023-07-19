@@ -59,3 +59,4 @@ None of these elements have to present. But in order to have a good prompt, at l
 - Use direct instructions and clear questioning. Use unambiguous language.
 - Align the prompt instructions with the task end's goal.
 - Use different personas to get more particular voices. 
+  
