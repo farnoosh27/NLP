@@ -53,3 +53,7 @@ None of these elements have to present. But in order to have a good prompt, at l
   - Question/ Answering
   - Coaching
   - Image Generation
+
+
+## General Tips
+
