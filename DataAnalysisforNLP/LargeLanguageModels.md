@@ -44,4 +44,11 @@ None of these elements have to present. But in order to have a good prompt, at l
   * Example:
   *   Few-shot learning
  
-  ## Most common use cases: 
+  ## Most common use cases:
+  - Summarization
+  - Classification
+  - Translation
+  - Text generation/ Completion
+  - Question/ Answering
+  - Coaching
+  - Image Generation
