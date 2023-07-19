@@ -43,3 +43,5 @@ None of these elements have to present. But in order to have a good prompt, at l
 * ```What is the meaning of life?```
   * Example:
   *   Few-shot learning
+ 
+  ## Most common use cases: 
