@@ -41,7 +41,7 @@ None of these elements have to present. But in order to have a good prompt, at l
 ```Translate from English to German: How is the weather?```
 * Question:
 * ```What is the meaning of life?```
-  * Example:
+* Example:
   *   Few-shot learning
  
   ## Most common use cases:
