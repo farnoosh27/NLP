@@ -37,7 +37,7 @@ def read_pdf_with_pdfminer(pdf_url):
 
     return output_string.getvalue()
 ```
-and next using the function:
+next using the function:
 ```
 pdf_url = 'https://www.africau.edu/images/default/sample.pdf'
 first_page_text_pdfminer = read_pdf_with_pdfminer(pdf_url)
