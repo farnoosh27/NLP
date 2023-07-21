@@ -29,34 +29,3 @@ Event handlers - Record and stream intermediate steps of any sequence
 ## what is an agent: 
 An Agent can be understood as an envelope that encloses a model, functioning to receive user inputs and generate responses. These responses suggest a particular "action" to be executed, along with the relevant "action input" associated with it.
 
-## What is prompt?
-
-Input/Context 
-Questions 
-Examples
-Output Formats
-
-None of these elements have to present. But in order to have a good prompt, at least one instruction and one question should be present. 
-* Instruction:
-```Translate from English to German: How is the weather?```
-* Question:
-* ```What is the meaning of life?```
-* Example:
-  *   Few-shot learning
-* Specify the desired format.
-* 
-  ## Most common use cases:
-  - Summarization
-  - Classification
-  - Translation
-  - Text generation/ Completion
-  - Question/ Answering
-  - Coaching
-  - Image Generation
-
-
-## General Tips
-- Use direct instructions and clear questioning. Use unambiguous language.
-- Align the prompt instructions with the task end's goal.
-- Use different personas to get more particular voices. 
-  
