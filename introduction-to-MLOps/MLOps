@@ -4,11 +4,11 @@ MLOps (Machine Learning Operations) is a set of practices and techniques that ai
 
 MLOps addresses the challenges associated with deploying and maintaining machine learning models at scale, ensuring their reliability, scalability, and performance. It focuses on integrating the development, training, and deployment of models with the existing software development and operations processes.
 
-## MLOps include:
+## MLOps include
 
 * Model Development: MLOps involves collaborative development practices for machine learning models, including version control, code reviews, and testing to ensure reproducibility and maintainability.
 
-* Model Training: It encompasses techniques for efficiently training and validating models using large datasets, distributed computing, and automated hyperparameter tuning.
+* Model Training: It encompasses techniques for efficient training and validating models using large datasets, distributed computing, and automated hyperparameter tuning.
 
 * Model Deployment: MLOps provides frameworks and tools for deploying models into production environments, making them available for inference or predictions. This involves containerization, orchestration, and deployment strategies to ensure scalability and availability.
 
