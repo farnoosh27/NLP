@@ -6,6 +6,13 @@ A large language model (LLM) is a computer-based model that uses an artificial n
 
 LangChain is a framework that simplifies the creation of applications utilizing large language models (LLMs). It acts as an **integration framework** for language models, and its application areas align with those of LLMs, including document analysis and summarization, chatbot development, and code analysis. In essence, LangChain streamlines the process of incorporating language models into diverse applications by offering a structured framework for integration.
 
+## What is vectorstore?
+One of the prevailing methods for storing and searching unstructured data involves embedding it and storing the resultant embedding vectors. During the query process, the unstructured query is also embedded, and the stored embedding vectors that exhibit the highest similarity to the embedded query are retrieved. A vector store manages the storage of embedded data and handles the vector search process on your behalf.
+
+
+
+
+
 You can find out about it at this link: https://python.langchain.com/docs/get_started/introduction
 https://www.youtube.com/@DataIndependent
 A udemy course on LangChain can be: LangChain- Develop LLM powered applications with LangChain: https://www.udemy.com/course/langchain/
