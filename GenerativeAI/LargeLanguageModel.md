@@ -28,8 +28,7 @@ ChatGPT was launched, making GPT-3 and similar models accessible to users throug
 2023:
 Open-source LLMs like Dolly 2.0, LLaMA, Alpaca, and Vicuna showcased impressive results. Additionally, GPT-4 was released, setting new benchmarks in parameter size and performance.
 
-
-
+## How does it work?
 
 ## Definition
 
