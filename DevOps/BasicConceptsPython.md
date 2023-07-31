@@ -4,6 +4,7 @@ A package in Python is a way of organizing related modules (Python files) into a
 A package can contain multiple sub-packages and modules, forming a hierarchical structure.
 The presence of a special file called __init__.py in a directory indicates that the directory is a Python package.
 Packages help in organizing code, avoiding naming conflicts, and promoting modularity and code reusability.
+* example: setuptools
 ## Library:
 
 In Python, a library refers to a collection of pre-written functions and modules that can be imported and used in your code.
