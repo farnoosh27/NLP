@@ -22,6 +22,9 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-07-31%20at%204.39.43%20PM.png)
 (the image is extracted from the LinkedIn learning [course](https://www.linkedin.com/learning/devops-with-aws/cicd-overview) taught by Dipali Kulshrestha)
 
+
+## Python Package Index (PyPI)
+
 ## What are package managers?
 probably a useful article can be found here: https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/
 ### Hatch
