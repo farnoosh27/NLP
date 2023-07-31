@@ -5,6 +5,7 @@ A word cloud is a visual representation of text data where words are displayed i
 Wordle, TagCrowd, WordClouds.com, WordArt.com, Tableau, R, and Python are popular software options for creating word clouds with varying levels of customization and programming capabilities.
 
 ## Latent Dirichlet Allocation (LDA)
+
 LDA stands for Latent Dirichlet Allocation. It is a generative probabilistic model used in machine learning and natural language processing (NLP) for topic modelling. LDA assumes that documents are composed of multiple topics, and each topic is represented by a distribution of words. It aims to uncover the underlying topics within a collection of documents and assigns probabilities to each topic's presence in a given document. LDA is widely used for tasks such as document clustering, information retrieval, and content recommendation systems.
 ### What meaning does each part carry
 Latent: The term "latent" refers to hidden or unobserved variables. In the case of LDA, the latent variables are the underlying topics in the documents, which are not directly observed but inferred from the observed words.
