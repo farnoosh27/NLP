@@ -1,4 +1,5 @@
 ## Word Cloud 
+
 A word cloud is a visual representation of text data where words are displayed in different sizes based on their frequency or importance in the source text. It is used to summarize and visualize information, highlighting key terms or themes. Word clouds help users quickly understand the main ideas or topics present in a text or dataset by visually emphasizing frequently occurring words. Various software tools and online platforms enable the creation of word clouds by analyzing the text and generating a visually appealing graphical representation.
 
 Wordle, TagCrowd, WordClouds.com, WordArt.com, Tableau, R, and Python are popular software options for creating word clouds with varying levels of customization and programming capabilities.
