@@ -2,6 +2,7 @@
 
 Continuous Integration (CI) is the practice of regularly integrating code changes into a shared repository, triggering automated build processes and tests to detect issues early in the development process.
 
+
 [Video: IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
 
 
