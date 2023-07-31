@@ -23,6 +23,7 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 (the image is extracted from the LinkedIn learning [course](https://www.linkedin.com/learning/devops-with-aws/cicd-overview) taught by Dipali Kulshrestha)
 
 ## What are package managers?
+probably a useful article can be found here: https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/
 ### Hatch
 ### Poetry
 both a Python packaging tool and a dependency management tool
