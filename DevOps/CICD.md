@@ -6,7 +6,7 @@ Continuous Integration (CI) is the practice of regularly integrating code change
 [Video: IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
 
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/28e6cdc567ca7d47c54139c552707fd5da0c43c2/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png)
-(the image is extracted from the LinkedIn learning course taught by Dipali Kulshrestha)
+(the image is extracted from the LinkedIn learning [course](https://www.linkedin.com/learning/devops-with-aws/cicd-overview) taught by Dipali Kulshrestha)
 Dipali Kulshrestha
 
 [Video: IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
