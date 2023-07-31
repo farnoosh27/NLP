@@ -17,8 +17,11 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 
 [Video: IBM Continuous Delivery](https://www.youtube.com/watch?v=2TTU5BB-k9U)
 
+
+
+## What are package managers?
+### Hatch
+
 ## pyproject.toml vs setup.py 
 
 Python Enhancement Proposal (PEP) 518, which describes a mechanism for specifying minimum and maximum version requirements for Python packages. PEP 518 introduces the use of a new file called pyproject.toml for specifying build system requirements and build backend configuration.
-
-## What are package managers?
