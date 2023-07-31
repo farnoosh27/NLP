@@ -2,7 +2,7 @@
 
 ## History 
 A brief historical background and development of Large Language Models (LLMs):
-This is extracted from databricks Ebook on named as "A Compact Guide to Large Language Models".
+This is extracted from Databricks Ebook named as "A Compact Guide to Large Language Models".
 
 1950s–1990s:
 Initially, attempts were made to create hard rules for language and follow logical steps to achieve tasks like language translation. However, these strictly defined rules only worked for well-defined tasks that the system had prior knowledge about.
