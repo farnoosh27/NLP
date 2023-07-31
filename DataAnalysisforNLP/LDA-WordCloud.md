@@ -62,6 +62,7 @@ LDAvis is a valuable tool for both researchers and practitioners working with to
 
 ### Simple Example
 ### Installing the libraries
+
 First, make sure you have Python 3.6 or above installed on your system. You can download Python from the official website: https://www.python.org/downloads/
 
 Install the required libraries using pip:
