@@ -13,4 +13,5 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 
 
 [Video: IBM Continuous Delivery](https://www.youtube.com/watch?v=2TTU5BB-k9U)
+
 ## What are package managers?
