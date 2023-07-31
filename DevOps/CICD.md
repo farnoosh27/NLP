@@ -14,6 +14,9 @@ Continuous Deployment (CD) involves automatically deploying code changes to prod
 ]((https://github.com/farnoosh27/NLP/blob/db587c3d0dd0971a9578fea83b615774352eb6ba/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png))
 
 
+![alt text]([http://url/to/img.png](https://github.com/farnoosh27/NLP/blob/db587c3d0dd0971a9578fea83b615774352eb6ba/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png))
+
+
 Continuous Delivery (CD) is similar to CD, but with the distinction that in Continuous Delivery, code changes are automatically deployed to a staging environment after passing CI, and the deployment to the production environment is typically triggered manually, allowing for human verification and approval before going live.
 
 
