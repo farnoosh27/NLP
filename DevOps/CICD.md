@@ -21,6 +21,8 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 
 ## What are package managers?
 ### Hatch
+### Poetry
+### Setuptools
 ### PIP
 ## pyproject.toml vs setup.py 
 
