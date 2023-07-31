@@ -5,10 +5,7 @@ Continuous Integration (CI) is the practice of regularly integrating code change
 
 [Video: IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
 
-![alt text]([http://url/to/img.png](https://github.com/farnoosh27/NLP/blob/db587c3d0dd0971a9578fea83b615774352eb6ba/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png])
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/farnoosh27/NLP/blob/db587c3d0dd0971a9578fea83b615774352eb6ba/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png))
-
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/farnoosh27/NLP/blob/28e6cdc567ca7d47c54139c552707fd5da0c43c2/DevOps/Screenshot%202023-07-31%20at%203.54.34%20PM.png))
 
 [Video: IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
 
