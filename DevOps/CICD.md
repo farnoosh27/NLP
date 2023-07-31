@@ -1,6 +1,8 @@
 ## What is CI/CD?
 
 Continuous Integration (CI) is the practice of regularly integrating code changes into a shared repository, triggering automated build processes and tests to detect issues early in the development process.
+[IBM Continuous Integration](https://www.youtube.com/watch?v=1er2cjUq1UI)
+
 
 Continuous Deployment (CD) involves automatically deploying code changes to production environments after successful testing in the CI phase, ensuring frequent and reliable software releases.
 
