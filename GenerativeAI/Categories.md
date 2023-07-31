@@ -4,3 +4,4 @@
 ## Variational Autoencoders (VAEs)
 ## Autoregressive Models
 ## Restricted Boltzmann Machines (RBMs)
+## Long Short-Term Memory (LSTM) Networks
