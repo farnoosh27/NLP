@@ -1,5 +1,37 @@
 ## LLMs
 
+## History 
+A brief historical background and development of Large Language Models (LLMs):
+
+1950s–1990s:
+Initially, attempts were made to create hard rules for language and follow logical steps to achieve tasks like language translation. However, these strictly defined rules only worked for well-defined tasks that the system had prior knowledge about.
+
+1990s:
+Language models evolved into statistical models, and language patterns began to be analyzed. However, large-scale projects were limited due to the lack of computing power.
+
+2000s:
+Advancements in machine learning allowed for more complex language models, and the widespread adoption of the internet provided a vast amount of training data.
+
+2012:
+Deep learning architectures and larger datasets led to the development of GPT (Generative Pre-trained Transformer).
+
+2018:
+Google introduced BERT (Bidirectional Encoder Representations from Transformers), a significant advancement in architecture that paved the way for future large language models.
+
+2020:
+OpenAI released GPT-3, the largest model with 175 billion parameters, setting new performance standards for language-related tasks.
+
+2022:
+ChatGPT was launched, making GPT-3 and similar models accessible to users through a web interface, leading to increased public awareness of LLMs and generative AI.
+
+2023:
+Open-source LLMs like Dolly 2.0, LLaMA, Alpaca, and Vicuna showcased impressive results. Additionally, GPT-4 was released, setting new benchmarks in parameter size and performance.
+
+
+
+
+## Definition
+
 A large language model (LLM) is a computer-based model that uses an artificial neural network with numerous parameters to process language. It is trained on vast amounts of unlabeled text, containing billions or even trillions of tokens, using self-supervised or semi-supervised learning methods. LLMs became prominent in 2018 with the development of transformers, which allowed for faster training compared to previous models like long short-term memory (LSTM). This advancement enabled the use of large language datasets such as the Wikipedia Corpus and Common Crawl, thanks to parallelization techniques. LLMs are versatile models capable of performing well in a wide range of tasks. The effectiveness of language models in various tasks depends more on the size of the training corpus, the number of parameters, and the computational power achieved through parallel computing than on the model's design. Consequently, natural language processing research has shifted away from training specialized supervised models for specific tasks.
 
 ## What is LangChain?
