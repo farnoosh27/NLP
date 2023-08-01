@@ -36,7 +36,7 @@ pipeline is basically a series of steps that we want to have executed.
 Theoratically speaking it can be summarized as below: 
 Prepare -> Test -> Push -> TAG
 for each of the septs of need a runner, we do have these steps defined in them .yaml, we use an image to execute each step.
-
+![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
 
 ## Python Package Index (PyPI)
