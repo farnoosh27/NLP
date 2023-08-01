@@ -1,4 +1,5 @@
 ## Packaging packages
+## Definition of pipeline
 * pyroject.toml is basically formerly setup.py
 benefits:
 1) extendable
@@ -11,4 +12,7 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 3) a bit more project-agnostic compared with poetry 
 
 ## build.sh
-in the build stage, we want to build wheel from our python package
+in the build stage, we want to build a wheel from our Python package
+
+## How to create the pipeline?
+For pipeline to exist, we need to do it through the codefresh
