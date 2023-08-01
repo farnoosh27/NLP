@@ -30,8 +30,9 @@ Codefresh provides a comprehensive CI/CD solution, covering the entire software 
 
 While Codefresh has a strong focus on containers and Kubernetes, it can also handle traditional applications running on virtual machines or physical data centers.
 
-
-
+## Basics of CI/CD
+### What is a pipeline within CI/CD?
+pipeline is basically a series of steps
 
 
 
