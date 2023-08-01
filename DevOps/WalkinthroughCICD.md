@@ -15,7 +15,7 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 in the build stage, we want to build a wheel from our Python package
 
 ## How to create the pipeline?
-For pipeline to exist, we need to do it through the Codefresh
+For the pipeline to exist, we need to do it through the Codefresh
 
 
 
