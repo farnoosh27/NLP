@@ -2,7 +2,8 @@
 ## Definition of pipeline
 ### PEP 660 
 [Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
-
+### PEP 621 
+[PEP 621 – Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
 * pyroject.toml is basically formerly setup.py
 benefits:
 1) extendable
