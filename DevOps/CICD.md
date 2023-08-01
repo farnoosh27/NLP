@@ -32,7 +32,7 @@ While Codefresh has a strong focus on containers and Kubernetes, it can also han
 
 ## Basics of CI/CD
 ### What is a pipeline within CI/CD?
-pipeline is basically a series of steps
+pipeline is basically a series of steps that we want to have executed. 
 
 
 
