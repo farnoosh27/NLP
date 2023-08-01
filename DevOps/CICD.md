@@ -33,6 +33,9 @@ While Codefresh has a strong focus on containers and Kubernetes, it can also han
 ## Basics of CI/CD
 ### What is a pipeline within CI/CD?
 pipeline is basically a series of steps that we want to have executed. 
+Theoratically speaking it can be summarized as below: 
+Prepare -> Test -> Push -> TAG
+for each of the septs of need a runner, we do have these steps defined in them .yaml, we use an image to execute each step.
 
 
 
