@@ -1,5 +1,8 @@
 ## Packaging packages
 ## Definition of pipeline
+### PEP 660 
+[Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
+
 * pyroject.toml is basically formerly setup.py
 benefits:
 1) extendable
@@ -18,4 +21,5 @@ in the build stage, we want to build a wheel from our Python package
 For the pipeline to exist, we need to do it through the Codefresh
 
 
+PEP 660 – Editable installs for pyproject.toml based builds (wheel based)
 
