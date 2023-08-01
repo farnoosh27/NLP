@@ -38,6 +38,7 @@ Prepare -> Test -> Push -> TAG
 for each of the septs of need a runner, we do have these steps defined in them .yaml, we use an image to execute each step.
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
+And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
 
 ## Python Package Index (PyPI)
 
