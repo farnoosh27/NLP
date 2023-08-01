@@ -8,4 +8,4 @@ benefits:
 Also, when using hatch, we can do a pretty cool thing with testing: 
 1) you can make a test.matrix
 2) python = [39]
-3) a bit more project-agonostic compared with poetry 
+3) a bit more project-agnostic compared with poetry 
