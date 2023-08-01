@@ -23,6 +23,18 @@ Continuous Delivery (CD) is similar to CD, but with the distinction that in Cont
 (the image is extracted from the LinkedIn learning [course](https://www.linkedin.com/learning/devops-with-aws/cicd-overview) taught by Dipali Kulshrestha)
 
 
+## Codefresh & CI/CD
+Codefresh is a cloud-native continuous integration and delivery (CI/CD) platform designed to facilitate the rapid development, deployment, and management of cloud-native applications. It supports various cloud platforms, including Kubernetes, Docker, and AWS. The platform offers an intuitive user interface to streamline the development process.
+
+Codefresh provides a comprehensive CI/CD solution, covering the entire software lifecycle. It allows users to view releases in the Kubernetes dashboard, access Docker images, and trace builds from a single interface. The platform is versatile, working with all major Git platforms and cloud providers, offering freedom from vendor lock-in.
+
+While Codefresh has a strong focus on containers and Kubernetes, it can also handle traditional applications running on virtual machines or physical data centers.
+
+
+
+
+
+
 ## Python Package Index (PyPI)
 
 ## What are package managers?
