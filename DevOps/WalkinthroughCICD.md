@@ -59,6 +59,6 @@ we use an image to execute the steps.
 And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
 ## What to do on codefresh? 
 1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
-2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be. 
-
+2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be.
+3) more importantly, we need to add variables from shared configurations. 
 ## What is [gemfury](https://gemfury.com/)?
