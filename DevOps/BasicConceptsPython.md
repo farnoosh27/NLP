@@ -18,7 +18,7 @@ Frameworks often dictate the flow of control and provide functionalities, module
 Examples of Python frameworks include Django and Flask for web development, TensorFlow and PyTorch for machine learning, and PyQt and Tkinter for building graphical user interfaces.
 
 
-### module
+### Module:
 A module is a file containing Python code that defines variables, functions, and classes that can be used in other Python programs.
 Modules serve as a way to organize code and promote code reusability by allowing you to split code into separate files based on functionality.
 You can import a module into your Python script using the import statement, and then access its defined functions, classes, and variables using dot notation (e.g., module_name.function_name() or module_name.variable_name).
