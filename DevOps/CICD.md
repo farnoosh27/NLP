@@ -53,5 +53,6 @@ both a Python packaging tool and a dependency management tool
 ### Setuptools
 ### PIP
 ## pyproject.toml vs setup.py 
+pyproject.toml is formerly setup.py as it contains all the metadata of the projects and dependencies. What is cool about it is thata is's extendible and we can put other tools such as [tool.bandit]
 
 [Python Enhancement Proposal (PEP) 518](https://peps.python.org/pep-0518/#:~:text=This%20PEP%20specifies%20how%20Python,execute%20their%20chosen%20build%20system.), which describes a mechanism for specifying minimum and maximum version requirements for Python packages. PEP 518 introduces the use of a new file called pyproject.toml for specifying build system requirements and build backend configuration.
