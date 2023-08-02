@@ -16,7 +16,7 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 3) a bit more project-agnostic compared with poetry 
 
 ## build.sh
-in the build stage, we want to build a wheel from our Python package
+in the build stage, we want to build a *wheel* from our Python package
 
 ## How to create the pipeline?
 For the pipeline to exist, we need to do it through the Codefresh
