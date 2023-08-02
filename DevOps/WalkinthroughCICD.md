@@ -6,7 +6,7 @@
 
 ## What is Hatch?
 [Hatch](https://hatch.pypa.io/latest/) is a modern, extensible Python project manager.
-
+[Hatch creator podcast](https://www.youtube.com/watch?v=gcgMyRfE8a4)
 ### Why pyproject.toml rather than setup.py?
 * pyroject.toml is basically formerly setup.py
 benefits:
@@ -57,7 +57,7 @@ we use an image to execute the steps.
 
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
-And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
+And then we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
 ## What to do on codefresh? 
 1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
 2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be.
