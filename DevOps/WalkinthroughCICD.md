@@ -32,8 +32,8 @@ python3 -m hatch build
   * Prepare
   * Test
 * CD
-  * Push
-  * Tag
+  * Push: push to gemfury
+  * Tag: creating a release tag
   
 For the pipeline to exist, we need to do it through the Codefresh
 
