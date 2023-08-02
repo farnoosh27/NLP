@@ -13,7 +13,7 @@ benefits:
 1) extendable
 2) some information related to tools like .bandit -> [tool.bandit]
 ## What is [gemfury](https://gemfury.com/)?
-
+Our private python artifactory.
 
 Also, when using hatch, we can do a pretty cool thing with testing: 
 1) you can make a test.matrix
@@ -39,7 +39,7 @@ For the pipeline to exist, we need to do it through the Codefresh
   * Prepare
   * Test: static code analysis/unit testing
 * CD
-  * Push: push to gemfury ( basically, we are pushing the wheel at this stage not the TAG) 
+  * Push: push to Gemfury ( basically, we are pushing the wheel at this stage not the TAG) 
   * Tag: creating a release tag
   
 We want to have the CD action only after the code review on the **main branch**. In our case, in the yaml file, We run this pipeline on every push to every branch, and if it is the main branch, we do something. 
