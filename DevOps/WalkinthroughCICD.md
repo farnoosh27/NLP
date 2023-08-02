@@ -4,9 +4,10 @@
 ### PEP 621 
 [PEP 621 – Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
 
-## What is Hatch?
+## What is Hatch/Hatchling?
 [Hatch](https://hatch.pypa.io/latest/) is a modern, extensible Python project manager.
 [Hatch creator podcast](https://www.youtube.com/watch?v=gcgMyRfE8a4)
+
 ### Why pyproject.toml rather than setup.py?
 * pyroject.toml is basically formerly setup.py
 benefits:
