@@ -25,7 +25,16 @@ set -e
 python3 -m pip install --upgrade pip hatch
 python3 -m hatch build
 ```
+
 ## How to create the pipeline?
+### Codefresh
+* CI
+  * Prepare
+  * Test
+* CD
+  * Push
+  * Tag
+  
 For the pipeline to exist, we need to do it through the Codefresh
 
 
