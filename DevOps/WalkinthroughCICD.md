@@ -48,11 +48,16 @@ We want to have the CD action only after the code review on the **main branch**.
 ### What is a pipeline within CI/CD?
 pipeline is basically a series of steps that we want to have executed. 
 Theoretically speaking, it can be summarized as below: 
+
 Prepare -> Test -> Push -> TAG
+
 for each of the septs that need a *runner*, we do have these steps defined in them .yaml, we use an image to execute each step.
 we use an image to execute the steps.
+
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
 And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
+## What to do on codefresh? 
+1) choose a pipleline template, in this case it can be app-CICDtemplate
 
 ## What is [gemfury](https://gemfury.com/)?
