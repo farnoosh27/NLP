@@ -61,4 +61,6 @@ And then we we define the steps and put under those stages and for each step we 
 ## What to do on codefresh? 
 1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
 2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be.
-3) more importantly, we need to add variables from shared configurations. 
+3) more importantly, we need to add variables from shared configurations.
+4) When pushing on the gemfury, check that in the scripts/release.sh --> PACKAGE_NAME=${3:-"expl_oem_parsing"}
+
