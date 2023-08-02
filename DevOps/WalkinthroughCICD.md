@@ -1,5 +1,4 @@
-## Packaging packages
-## Definition of pipeline
+# Walkthrough packaging Packaging/Hatchling/CI/CD/Codefresh
 ### PEP 660 
 [Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
 ### PEP 621 
