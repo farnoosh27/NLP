@@ -12,6 +12,7 @@
 benefits:
 1) extendable
 2) some information related to tools like .bandit -> [tool.bandit]
+## What is [gemfury](https://gemfury.com/)?
 
 
 Also, when using hatch, we can do a pretty cool thing with testing: 
@@ -61,4 +62,3 @@ And then we we define the steps and put under those stages and for each step we 
 1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
 2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be.
 3) more importantly, we need to add variables from shared configurations. 
-## What is [gemfury](https://gemfury.com/)?
