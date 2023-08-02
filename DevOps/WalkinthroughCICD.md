@@ -38,8 +38,6 @@ python3 -m hatch build
 For the pipeline to exist, we need to do it through the Codefresh
 
 
-PEP 660 – Editable installs for pyproject.toml based builds (wheel based)
-
 
 ## Basics of CI/CD
 ### What is a pipeline within CI/CD?
