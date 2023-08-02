@@ -32,16 +32,16 @@ python3 -m hatch build
 ```
 
 ## How to create the pipeline?
+For the pipeline to exist, we need to do it through the Codefresh
 ### Codefresh
 * CI
   * Prepare
-  * Test: static code anaylsis/unit testing
+  * Test: static code analysis/unit testing
 * CD
   * Push: push to gemfury
   * Tag: creating a release tag
   
-For the pipeline to exist, we need to do it through the Codefresh
-
+We want to have the CD action only after the code review on the **main branch**. 
 
 
 ## Basics of CI/CD
