@@ -58,11 +58,13 @@ we use an image to execute the steps.
 
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
-And then we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
+And then, we define the steps and put them under those stages and for each step, we define an **image** on which we want the step to run, and we define what we want to happen in that step. Then we define the steps and put them under those stages, and for each step, we define an image on which we want the step to run, and we define what we want to happen in that step.
+
 ## What to do on codefresh? 
-1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
-2) check for yaml from the repository, and choose Branch to be main, It will find our codefresh.yaml, make sure we are in the repository that we should be.
+1) choose a pipleline template; in this case, it can be app-CICDtemplate choose project to be agility, and ADD GIT CLONE STEP TO PIPLELINE choose the name of your project
+2) check for yaml from the repository, and choose Branch to be main; it will find our codefresh.yaml, make sure we are in the repository that we should be.
 3) more importantly, we need to add variables from shared configurations.
 4) When pushing on the gemfury, check that in the scripts/release.sh --> PACKAGE_NAME=${3:-"expl_oem_parsing"}
 
-## What happens, after creating pipeline?
+## What happens after creating a pipeline?
+Obviously the code should be prepared for the packaging
