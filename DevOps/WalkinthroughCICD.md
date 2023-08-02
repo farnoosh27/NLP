@@ -38,7 +38,7 @@ For the pipeline to exist, we need to do it through the Codefresh
   * Prepare
   * Test: static code analysis/unit testing
 * CD
-  * Push: push to gemfury
+  * Push: push to gemfury ( basically, we are pushing the wheel at this stage not the TAG) 
   * Tag: creating a release tag
   
 We want to have the CD action only after the code review on the **main branch**. In our case, in the yaml file, We run this pipeline on every push to every branch, and if it is the main branch, we do something. 
@@ -49,7 +49,7 @@ We want to have the CD action only after the code review on the **main branch**.
 pipeline is basically a series of steps that we want to have executed. 
 Theoretically speaking, it can be summarized as below: 
 Prepare -> Test -> Push -> TAG
-for each of the septs of need a *runner*, we do have these steps defined in them .yaml, we use an image to execute each step.
+for each of the septs that need a *runner*, we do have these steps defined in them .yaml, we use an image to execute each step.
 we use an image to execute the steps.
 ![Screenshot](https://github.com/farnoosh27/NLP/blob/main/DevOps/Screenshot%202023-08-01%20at%2011.56.36%20AM.png)
 
