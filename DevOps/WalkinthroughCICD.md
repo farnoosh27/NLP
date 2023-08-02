@@ -4,6 +4,7 @@
 [Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
 ### PEP 621 
 [PEP 621 – Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
+## Why pyproject.toml rather than setup.py?
 * pyroject.toml is basically formerly setup.py
 benefits:
 1) extendable
@@ -16,7 +17,7 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 3) a bit more project-agnostic compared with poetry 
 
 ## build.sh
-in the build stage, we want to build a **wheel** from our Python package, so here are the hatch commands
+in the build stage, we want to build a **wheel** from our Python package, so here are the hatch commands.
 ```
 #!/bin/sh
 set -e
