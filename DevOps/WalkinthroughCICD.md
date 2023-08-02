@@ -35,7 +35,7 @@ python3 -m hatch build
 ### Codefresh
 * CI
   * Prepare
-  * Test
+  * Test: static code anaylsis/unit testing
 * CD
   * Push: push to gemfury
   * Tag: creating a release tag
