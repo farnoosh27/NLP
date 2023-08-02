@@ -15,7 +15,8 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 1) you can make a test.matrix
 2) python = [39]
 3) a bit more project-agnostic compared with poetry 
-
+## .fake8
+does code style check
 ## build.sh
 in the build stage, we want to build a **wheel** from our Python package, so here are the hatch commands.
 ```
