@@ -64,3 +64,4 @@ And then we we define the steps and put under those stages and for each step we 
 3) more importantly, we need to add variables from shared configurations.
 4) When pushing on the gemfury, check that in the scripts/release.sh --> PACKAGE_NAME=${3:-"expl_oem_parsing"}
 
+## What happens, after creating pipeline?
