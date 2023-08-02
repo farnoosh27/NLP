@@ -21,7 +21,7 @@ Also, when using hatch, we can do a pretty cool thing with testing:
 4) 
 ## .fake8
 does code style check
-## build.sh
+## src/build.sh
 in the build stage, we want to build a **wheel** from our Python package, so here are the hatch commands.
 ```
 #!/bin/sh
