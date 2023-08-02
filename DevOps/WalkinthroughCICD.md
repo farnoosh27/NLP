@@ -3,7 +3,11 @@
 [Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
 ### PEP 621 
 [PEP 621 – Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
-## Why pyproject.toml rather than setup.py?
+
+## What is Hatch?
+[Hatch](https://hatch.pypa.io/latest/) is a modern, extensible Python project manager.
+
+### Why pyproject.toml rather than setup.py?
 * pyroject.toml is basically formerly setup.py
 benefits:
 1) extendable
@@ -13,7 +17,8 @@ benefits:
 Also, when using hatch, we can do a pretty cool thing with testing: 
 1) you can make a test.matrix
 2) python = [39]
-3) a bit more project-agnostic compared with poetry 
+3) a bit more project-agnostic compared with poetry
+4) 
 ## .fake8
 does code style check
 ## build.sh
