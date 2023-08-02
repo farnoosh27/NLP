@@ -41,7 +41,7 @@ For the pipeline to exist, we need to do it through the Codefresh
   * Push: push to gemfury
   * Tag: creating a release tag
   
-We want to have the CD action only after the code review on the **main branch**. 
+We want to have the CD action only after the code review on the **main branch**. In our case, in the yaml file, We run this pipeline on every push to every branch, and if it is the main branch, we do something. 
 
 
 ## Basics of CI/CD
