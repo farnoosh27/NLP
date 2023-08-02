@@ -58,6 +58,6 @@ we use an image to execute the steps.
 
 And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.And then we we define the steps and put under those stages and for each step we define an image on which we want the step to run and we define what we want to happen that step.
 ## What to do on codefresh? 
-1) choose a pipleline template, in this case it can be app-CICDtemplate
+1) choose a pipleline template, in this case it can be app-CICDtemplate and choose project to be agility.
 
 ## What is [gemfury](https://gemfury.com/)?
