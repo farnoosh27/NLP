@@ -1,9 +1,17 @@
 # Testing 
 ## Level of testing
-- **Unit Testing**\nTesting at the function level.\n
-- **Component Testing**\nTesting is at the library and compiled binary level.\n
-- **System Testing**\nTests and external interfaces of a system which is a collection of sub-systems.\n
-- **Performance Testing**\nEvaluating the performance of the software under different conditions.\n
+- **Unit Testing**  
+  Testing at the function level.
+
+- **Component Testing**  
+  Testing is at the library and compiled binary level.
+
+- **System Testing**  
+  Tests and external interfaces of a system which is a collection of sub-systems.
+
+- **Performance Testing**  
+  Evaluating the performance of the software under different conditions.
+
 
   Testing is done at sub-system and system levels to verify timing and resource usage and acceptable.
 ## Pytest
