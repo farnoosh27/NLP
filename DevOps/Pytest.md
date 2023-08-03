@@ -1,12 +1,16 @@
 # Testing 
 ## Level of testing
-* Unit Testing 
-  \nTesting at the function level. 
-* Component Testing\n
+* Unit Testing
+
+  Testing at the function level. 
+* Component Testing
+  
   Testing is at the library and compiled binary level. 
-* System Testing\n
+* System Testing
+  
   Tests and external interfaces of a system which is a collection of sub-systems.
-* Performance Testing\n
+* Performance Testing
+  
   Testing is done at sub-system and system levels to verify timing and resource usage and acceptable.
 ## Pytest
 Pytest is a widely used Python testing framework, offering a user-friendly and concise syntax for writing test cases. 
