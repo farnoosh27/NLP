@@ -46,9 +46,7 @@ And then we we define the steps and put under those stages and for each step we 
 
 ## What are package managers?
 probably a useful article can be found here: https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/
-### Hatch
-### Poetry
-### flit
+
 both a Python packaging tool and a dependency management tool
 ### Setuptools
 ### PIP
