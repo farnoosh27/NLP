@@ -73,3 +73,12 @@ pip install pyLDAvis
 pip install gensim
 ```
 ## What are	λ and η?
+### λ (Lambda):
+
+In ldavis, λ controls the relevance of terms within a topic. It is a parameter that you can adjust to influence which terms are shown for each topic in the visualization. Higher values of λ will prioritize terms that are more strongly associated with the topic, potentially leading to a more focused and coherent representation of the topic. Lower values of λ will result in a broader range of terms being displayed for the topic.
+
+### η (Eta):
+
+η controls the relevance of topics within a topic model. It determines the importance of topics when generating the visualization. Adjusting η allows you to emphasize topics that are more prevalent or significant in the model.
+
+Both λ and η are used to fine-tune the visual representation of topics in the ldavis visualization. By adjusting these parameters, you can customize the visualization to better suit your interpretation and analysis of the topic model. The exact impact of λ and η on the visualization will depend on the specific values you choose and the characteristics of your topic model and data.
