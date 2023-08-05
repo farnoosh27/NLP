@@ -23,6 +23,8 @@ A module is a file containing Python code that defines variables, functions, and
 Modules serve as a way to organize code and promote code reusability by allowing you to split code into separate files based on functionality.
 You can import a module into your Python script using the import statement, and then access its defined functions, classes, and variables using dot notation (e.g., module_name.function_name() or module_name.variable_name).
 
+### Module vs Script:
+any .py file, can be a module, but script is a .py file that we run. 
 ## Function:
 A function is a block of code within a program that performs a specific task or set of tasks. It is a self-contained unit of code that can be called and executed multiple times.
 Functions take input arguments (parameters), process them, and optionally return a result (output) after performing the specified operations.
