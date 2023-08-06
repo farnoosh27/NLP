@@ -50,6 +50,8 @@ probably a useful article can be found here: https://www.activestate.com/blog/wh
 both a Python packaging tool and a dependency management tool
 ### Setuptools
 ### PIP
+### hatch
+### flit
 ## pyproject.toml vs setup.py 
 pyproject.toml is formerly setup.py as it contains all the metadata of the projects and dependencies. What is cool about it is thata is's extendible and we can put other tools such as [tool.bandit]
 
