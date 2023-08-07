@@ -5,8 +5,11 @@
 
 3. Create a pyproject.toml File
 
-4. Create a setup.py File
 
-5. Build Your Package with Hatch
-   
-7. Install Your Package Locally
+
+4. Build Your Package with Hatch
+ * Install Hatch: pip install hatch
+ * Use Hatch to build your project
+   * Navigate to your project's root directory (the directory containing pyproject.toml)
+   * hatch build
+5. Install Your Package Locally
