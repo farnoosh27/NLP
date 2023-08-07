@@ -13,3 +13,6 @@
    * Navigate to your project's root directory (the directory containing pyproject.toml)
    * hatch build
 5. Install Your Package Locally
+```
+pip install -e .
+```
