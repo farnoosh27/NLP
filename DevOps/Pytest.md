@@ -1,4 +1,7 @@
 # Testing 
+
+unittest is a built-in testing framework in the Python Standard Library. It follows the xUnit style and provides a way to create tests by writing test classes that inherit from unittest.TestCase
+
 ## Level of testing
 - **Unit Testing**  
   Testing at the function level.
