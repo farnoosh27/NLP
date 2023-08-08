@@ -66,4 +66,4 @@ pytest
 ```
 
 ## What are fixtures within Pytest?
- 
+ A pytest fixture is like a helper function that prepares something needed for your tests. It can be data, resources, or setup. You define a fixture using @pytest.fixture above a function. Inside that function, you set up what's needed and use yield to provide it to your test functions
