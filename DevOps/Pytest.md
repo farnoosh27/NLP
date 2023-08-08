@@ -66,3 +66,5 @@ Run the following command:
 ```
 pytest
 ```
+
+## What are fixtures?
