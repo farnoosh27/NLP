@@ -21,3 +21,48 @@ unittest is a built-in testing framework in the Python Standard Library. It foll
 Pytest is a widely used Python testing framework, offering a user-friendly and concise syntax for writing test cases. 
 It provides powerful built-in assertions, automatic test discovery, and support for fixtures to set up resources. Pytest is highly extensible through plugins and allows parameterized testing. Its simplicity and flexibility have made it a popular choice in the Python community.
  ## Testing a simple function
+Step 1: Install pytest
+Make sure you have Python installed on your system. You can download Python from the official website (https://www.python.org/downloads/).
+
+Next, you can install pytest using pip. Open your terminal or command prompt and run the following command:
+
+```
+pip install pytest
+```
+Step 2: Write the super simple function
+Let's create a simple function in Python that we'll use for testing. For this example, let's create a function that adds two numbers:
+python
+Copy code
+# save this code in a file named simple_function.py
+```
+def add_numbers(a, b):
+    return a + b
+```
+Step 3: Write the test for the function
+Now, we'll write a test for the add_numbers function using pytest. Create a new file called test_simple_function.py and save it in the same directory as simple_function.py.
+
+python
+Copy code
+# save this code in a file named test_simple_function.py
+```
+from simple_function import add_numbers
+
+def test_add_numbers():
+    result = add_numbers(2, 3)
+    assert result == 5
+
+    result = add_numbers(-1, 1)
+    assert result == 0
+
+    result = add_numbers(0, 0)
+    assert result == 0
+```
+In this test, we're using the assert statement to check whether the actual result of the add_numbers function matches the expected result.
+
+Step 4: Run pytest
+Now that we have our function and test written, it's time to run pytest. Open your terminal or command prompt and navigate to the directory where you saved the simple_function.py and test_simple_function.py files.
+
+Run the following command:
+```
+pytest
+```
