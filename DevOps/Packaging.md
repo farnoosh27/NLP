@@ -10,7 +10,7 @@
 4. Build Your Package with Hatch
  * Install Hatch: pip install hatch
  * Use Hatch to build your project
-   * Navigate to your project's root directory (the directory containing pyproject.toml)
+* Navigate to your project's root directory (the directory containing pyproject.toml)
    * hatch build
 5. Install Your Package Locally
 
