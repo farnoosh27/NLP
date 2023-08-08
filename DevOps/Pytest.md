@@ -31,8 +31,7 @@ pip install pytest
 ```
 Step 2: Write the super simple function
 Let's create a simple function in Python that we'll use for testing. For this example, let's create a function that adds two numbers:
-python
-Copy code
+
 # save this code in a file named simple_function.py
 ```
 def add_numbers(a, b):
@@ -41,8 +40,7 @@ def add_numbers(a, b):
 Step 3: Write the test for the function
 Now, we'll write a test for the add_numbers function using pytest. Create a new file called test_simple_function.py and save it in the same directory as simple_function.py.
 
-python
-Copy code
+
 # save this code in a file named test_simple_function.py
 ```
 from simple_function import add_numbers
@@ -67,4 +65,5 @@ Run the following command:
 pytest
 ```
 
-## What are fixtures?
+## What are fixtures within Pytest?
+ 
