@@ -16,7 +16,7 @@ In the decoder layer, the multi-head self-attention mechanism focuses on capturi
 ### Masked Self-Attention:
 
 The masking in the decoder's self-attention mechanism ensures that each word in the target sequence can only attend to words to its left (previous positions) during training. This autoregressive constraint is crucial for proper word generation.
-Position of Interest:
+### Position of Interest:
 
 The decoder's primary role is to generate the target sequence based on the information in the encoder's contextual representations. It ensures that the generated sequence is coherent and contextually relevant.
 In summary, while encoder and decoder layers share some architectural components like multi-head self-attention and layer normalization, their roles and behaviors differ significantly. The encoder focuses on understanding the input sequence, whereas the decoder uses the encoder's output to generate a target sequence while adhering to an autoregressive constraint. The masking of self-attention in the decoder is a critical distinction that enables autoregressive generation.
