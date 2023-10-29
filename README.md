@@ -4,9 +4,7 @@
 
 NLP involves extracting information from text in order to leverage it for downstream applications:
 
-
 I am trying to specialize in Natural Language Processing for the purpose of my job, so here is the repository! 
-
 The core concepts are as follows:
 
 * Tokenization: The process of breaking down a text or sentence into smaller units, called tokens. Tokens can be words, phrases, or even individual characters, depending on the level of granularity required.
